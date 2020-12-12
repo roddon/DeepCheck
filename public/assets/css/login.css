@@ -1,0 +1,272 @@
+body.bodysky {
+    background: #eaeef0;
+}
+
+/* onboarding css */
+.center-box {
+    margin: 0 auto !important;
+}
+
+.center-screen {
+    width: 524px;
+    height: auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-top: 2px solid #ffbb2f;
+    opacity: 1;
+}
+.fuelux {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo {
+    /*padding: 58px 95px 34px 96px;*/
+    padding: 58px 95px 22px 96px;
+}
+.be-wrapper {
+    padding-top: 0;
+}
+.logo img {
+    width: 333px;
+    height: 60px;
+}
+
+/* forgot password css */
+.forgot-password {
+    /* padding: 0 150px 24px 149px ; */
+    padding: 0 0 0px;
+}
+
+.forgot-password p {
+    font-size: 22px;
+    font-family: "Arial";
+    color: #3e4042;
+    margin: 0;
+}
+
+.worry-text {
+    padding: 0 71px 24px 58px;
+}
+
+.worry-text p {
+    font-size: 18px !important;
+    font-family: "Arial";
+    color: #3e4042;
+    margin: 0;
+}
+
+.worry-text p.password-text {
+    padding-left: 5px !important;
+    text-align: left !important;
+    margin-bottom: 0 !important;
+}
+
+.email-field,
+.username-field,
+.password-field {
+    padding: 0 45px 40px 44px !important;
+    display: block;
+}
+
+.email-field input,
+.username-field input,
+.password-field input {
+    border: 1px solid #707070;
+    border-radius: 4px;
+    height: 55px !important;
+}
+
+.reset-password-btn {
+    padding: 0 44px 30px 44px !important;
+    margin-top: -5px;
+}
+
+.reset-password-btn button,
+.sign-up-btn button {
+    height: 53px !important;
+}
+.dont-remember {
+    padding: 0 61px 32px 85px !important;
+    font-size: 18px;
+    margin: 0;
+}
+/* forgot password css end */
+
+/* login css */
+.enter-info {
+    padding: 0 68px 36px 68px !important;
+}
+
+.enter-info p {
+    font-size: 25px !important;
+    font-family: "Arial";
+    color: #3e4042;
+    margin: 0;
+}
+
+.remember-me-checkbox {
+    width: 23px;
+    height: 23px;
+}
+
+.remember-me {
+    color: #9d9d9d;
+    font-size: 18px;
+    font-family: "Arial";
+    line-height: normal;
+}
+
+.register-btn,
+.sign-in-btn,
+.facebook,
+.google-plus {
+    width: 202px;
+    height: 53px;
+    display: inline-block;
+}
+
+.remember-checkbox {
+    margin-left: 46px !important;
+    margin-bottom: 50px !important;
+    text-align: left !important;
+}
+.dont-remember a {
+    font-weight: bold;
+}
+.login-btn {
+    padding-bottom: 43px;
+    margin: 0 44px 0 44px;
+}
+
+.register-btn {
+    margin: 0 20px 0 0 !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #bdc0c7;
+    font-weight: normal;
+    font-size: 22px;
+}
+/* login css end */
+
+/* sign-up css */
+.sign-up-btn {
+    padding: 0 44px 0 44px !important;
+    margin-top: -5px;
+}
+
+.sign-up p {
+    padding: 0 220px 18px 226px !important;
+    font-size: 18px !important;
+    font-family: "Arial";
+}
+
+.sign-up-btn .btn-s {
+    padding: 10px 14px !important;
+    font-weight: normal;
+    font-size: 22px;
+    margin-bottom: 0 !important;
+    display: block;
+}
+.form-control-sm {
+    font-size: 22px;
+}
+.facebook,
+.google-plus {
+    font-size: 18px;
+}
+
+.google-plus {
+    float: right;
+}
+
+.facebook img,
+.google-plus img {
+    width: 20px;
+}
+
+.google-plus {
+    background: #db4a39 !important;
+}
+/* sign-up css end */
+
+.sign-in-btn {
+    font-size: 22px;
+    font-weight: normal;
+    float: right;
+}
+
+.forgot-password-link {
+    float: right;
+    text-decoration: underline;
+    margin-right: 44px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sign-up,
+.sign-up-or {
+    font-size: 22px;
+}
+
+.sign-up-or {
+    margin-top: 21px;
+    margin-bottom: 15px;
+}
+.sign-up-or p {
+    margin: 0;
+}
+.sign-password {
+    margin-right: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    display: inline-block;
+}
+
+.sign-confirm {
+    margin-left: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    float: right;
+}
+
+.terms-checkbox {
+    margin: 0 43px 53px 46px;
+}
+
+.terms-checkbox label {
+    font-size: 15px;
+    line-height: 23px;
+    cursor: pointer;
+}
+
+.copy-right {
+    font-size: 20px;
+    padding: 10px 0;
+    margin: 0;
+}
+
+.btn-s {
+    background: #004b88;
+    color: #fff !important;
+    border-radius: inherit !important;
+}
+.sign-in-btn:hover {
+    color: #fff;
+}
+
+.newlogo img {
+    height: auto !important;
+}
+
+.custom-control-label {
+    line-height: 23px !important;
+}
+
+.pd-top {
+    padding-top: 16px !important;
+}
+a.btn.btn-s.text-center.register-btn.pd-top:hover {
+    border: 1px solid #bdc0c7;
+}

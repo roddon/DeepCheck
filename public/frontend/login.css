@@ -1,0 +1,675 @@
+/* onboarding css */
+.center-box {
+    margin: 0 auto !important;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 0.5rem 2.5rem;
+}
+
+.center-screen {
+    width: 100%;
+    height: auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid transparent;
+    border-top: 2px solid #ffbb2f;
+    opacity: 1;
+}
+
+div#kyc-verification .modal-dialog {
+    width: 1400px;
+    max-width: 100%;
+}
+
+.ifarmearea .container.pane {
+    height: auto !important;
+}
+
+.ifarmearea iframe {min-height: 400px; overflow-y: auto;}
+/* .fuelux {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+} */
+.logo {
+    /*padding: 58px 95px 34px 96px;*/
+    padding: 30px 20px;
+}
+.be-wrapper {
+    padding-top: 0;
+}
+.logo img {
+    width: 333px;
+    height: 60px;
+}
+
+/* forgot password css */
+.forgot-password {
+    /* padding: 0 150px 24px 149px ; */
+    padding: 0 0 0px;
+}
+
+.forgot-password p {
+    font-size: 22px;
+    /* font-family: 'Arial'; */
+    color: #3e4042;
+    margin: 0;
+}
+
+.worry-text {
+    padding: 0 71px 24px 58px;
+}
+
+.worry-text p {
+    font-size: 18px !important;
+    /* font-family: 'Arial'; */
+    color: #3e4042;
+    margin: 0;
+    margin-top: 15px;
+}
+
+p.thanksNote {
+    font-size: 20px !important;
+    font-weight: 700;
+    font-family: "Arial";
+}
+
+.worry-text p.password-text {
+    padding-left: 5px !important;
+    text-align: left !important;
+    margin-bottom: 0 !important;
+}
+
+.email-field,
+.username-field,
+.password-field {
+    padding: 0 45px 25px 44px !important;
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+#signupmodal .password-field input {
+    width: 45% !important;
+    float: left;
+}
+
+.email-field input,
+.username-field input,
+.password-field input {
+    border: 1px solid #707070;
+    border-radius: 4px;
+    height: 55px !important;
+}
+
+.reset-password-btn {
+    padding: 0 44px 30px 44px !important;
+    margin-top: -5px;
+}
+
+.reset-password-btn button,
+.sign-up-btn button {
+    height: 53px !important;
+}
+
+.reset-password-btn button {
+    width: 100% !important;
+}
+.dont-remember {
+    padding: 0 61px 32px 85px !important;
+    font-size: 18px;
+    margin: 0;
+}
+/* forgot password css end */
+
+/* login css */
+.enter-info {
+    padding: 0 2rem 20px 2rem !important;
+}
+
+.enter-info p {
+    font-size: 25px !important;
+    /* font-family: 'Arial'; */
+    color: #3e4042;
+    margin: 0;
+}
+
+.remember-me-checkbox {
+    width: 16px;
+    height: 16px;
+}
+
+.remember-me {
+    color: #9d9d9d;
+    font-size: 18px;
+    /* font-family: 'Arial'; */
+    line-height: normal;
+}
+
+.register-btn,
+.sign-in-btn,
+.facebook,
+.google-plus {
+    width: 202px;
+    height: 48px;
+    display: inline-block;
+}
+
+.remember-checkbox {
+    margin-left: 46px !important;
+    margin-bottom: 30px !important;
+    text-align: left !important;
+}
+.dont-remember a {
+    font-weight: bold;
+    color: #007bff;
+}
+.login-btn {
+    padding-bottom: 25px;
+    margin: 0 44px 0 44px;
+}
+
+.register-btn {
+    margin: 0 20px 0 0 !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #bdc0c7;
+    font-weight: normal;
+    font-size: 17px;
+}
+.register-btn {
+    color: #000 !important;
+}
+/* login css end */
+
+/* sign-up css */
+.sign-up-btn {
+    padding: 0 44px 0 44px !important;
+    margin-top: -5px;
+}
+
+.sign-up p {
+    padding: 0 2rem 18px 2rem !important;
+    font-size: 18px !important;
+    /* font-family: 'Arial'; */
+    color: #3e4042;
+}
+
+.terms-checkbox label a {
+    color: #0123ff;
+}
+
+.sign-up-btn .btn-s {
+    padding: 10px 14px !important;
+    font-weight: normal;
+    font-size: 22px;
+    margin-bottom: 0 !important;
+    display: block;
+    width: 100%;
+}
+.form-control-sm {
+    font-size: 22px;
+}
+.facebook,
+.google-plus {
+    font-size: 18px;
+}
+
+.google-plus {
+    float: right;
+}
+
+.facebook img,
+.google-plus img {
+    width: 20px;
+}
+
+.google-plus {
+    background: #db4a39 !important;
+}
+/* sign-up css end */
+
+.sign-in-btn {
+    font-size: 17px;
+    font-weight: normal;
+    float: right;
+}
+
+.forgot-password-link {
+    float: right;
+    text-decoration: underline;
+    margin-right: 44px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #078dfa;
+}
+
+.sign-up,
+.sign-up-or {
+    font-size: 22px;
+}
+
+.sign-up-or {
+    margin-top: 21px;
+    margin-bottom: 15px;
+}
+.sign-up-or p {
+    margin: 0;
+}
+.sign-password {
+    margin-right: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    display: inline-block;
+}
+
+.sign-confirm {
+    margin-left: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    float: right !important;
+}
+
+.terms-checkbox {
+    margin: 0 43px 25px 46px;
+}
+
+.terms-checkbox label {
+    font-size: 15px;
+    line-height: 23px;
+    cursor: pointer;
+}
+
+.copy-right {
+    font-size: 15px;
+    padding: 10px 0;
+    margin: 0;
+    background: transparent;
+    color: #3e4042;
+}
+
+.btn-s {
+    background: #004b88;
+    color: #fff !important;
+    border-radius: inherit !important;
+}
+.register-btn {
+    color: #000 !important;
+}
+.sign-in-btn:hover {
+    color: #fff;
+}
+
+.newlogo img {
+    height: 50px !important;
+}
+
+.custom-control-label {
+    line-height: 23px !important;
+}
+#loginmodal .modal-content,
+#loginmodal,
+#signupmodal,
+#signupmodal .modal-content,
+#forgotmodal,
+.common-modal,
+.common-modal .modal-content,
+#forgotmodal .modal-content {
+    z-index: 9999;
+}
+#signupmodal {
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.common-modal .modal-body {
+    padding: 0;
+}
+.common-modal .modal-header {
+    padding: 0;
+    border: none;
+}
+.common-modal .modal-title {
+    display: none;
+}
+.common-modal .modal-header .close {
+    margin-top: -2px;
+    position: absolute;
+    right: 15px;
+    font-size: 40px;
+    z-index: 999;
+    top: 10px;
+}
+
+.common-modal .modal-content {
+    background: transparent;
+    box-shadow: none;
+    border: none;
+}
+
+.big-modal .modal-dialog {
+    width: 800px;
+    max-width: 100%;
+}
+
+.big-modal .modal-body {
+    padding: 15px !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.pt-0,
+.py-0 {
+    padding-top: 0 !important;
+}
+
+.custverifcatn .modal-dialog h3 {
+    font-size: 20px;
+    color: #3e4042;
+    line-height: 23px;
+    margin-bottom: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 3rem !important;
+    padding-top: 0.5rem !important;
+}
+
+.bank-modal-button {
+    bottom: 5px;
+    width: 96%;
+    box-sizing: border-box;
+    padding: 0;
+    right: 15px;
+    left: 15px;
+    margin-top: 1.5rem !important;
+    margin-bottom: 0.5rem !important;
+    position: absolute !important;
+}
+
+/*-----Verification Phone----------*/
+
+.thankuarea p {
+    margin: 0px;
+    padding: 0px 0 15px 0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 600;
+}
+.thankuarea {
+    padding: 0px 1rem;
+}
+
+.thankuarea.new-thank.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.new-thank p {
+    padding-bottom: 80px !important;
+}
+
+.pl-0 {
+    padding-left: 0 !important;
+}
+
+.ifarmearea {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0;
+    /* -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%; */
+}
+
+.frmbx label {
+    color: #b7bfc7;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.modal-actions {
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center !important;
+    margin-top: 2.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.common-modal {
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.common-modal.bg-white .modal-content {
+    background: #fff !important;
+}
+
+.dragBox input[type="file"] {
+    position: absolute;
+    height: 250px;
+    width: 500px;
+    max-width: 100%;
+    opacity: 0;
+    top: -80px;
+    left: 0;
+}
+
+#uploadInvoiceModal .worry-text {
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#uploadInvoiceModal .logo {
+    padding-bottom: 5px;
+}
+
+#uploadInvoiceModal .input-group {
+    padding-bottom: 10px !important;
+}
+
+#uploadInvoiceModal .input-group input {
+    height: 48px !important;
+}
+
+#uploadInvoiceModal button#btnUploadInvoice {
+    margin-top: 15px !important;
+    float: left;
+    margin-bottom: 20px;
+}
+
+div#document-upload-msg span.alert {
+    background: #ffbb2f;
+    color: #000;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#uploadInvoiceModal div#document-upload-msg {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+#uploadInvoiceModal div#document-upload-msg-invoice {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+div#document-upload-msg-invoice span.alert {
+    background: #ffbb2f;
+    color: #000;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#uploadselectInvoiceModal .worry-text {
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#selectInvoiceModal .logo {
+    padding-bottom: 5px;
+}
+
+#selectInvoiceModal .input-group {
+    padding-bottom: 10px !important;
+}
+
+#selectInvoiceModal .input-group input {
+    height: 48px !important;
+}
+
+.modal {
+    text-align: center;
+}
+
+.modal::before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+span.reset-password-text.select-invoice-text {
+    line-height: 41px;
+    font-size: 15px;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+@media only screen and (max-width: 639px) {
+    .register-btn {
+        margin-bottom: 20px !important;
+    }
+    .btn-s {
+        width: 100%;
+        display: block;
+        margin-bottom: 12px;
+    }
+    .fuelux .logo {
+        padding: 30px;
+    }
+    .forgot-password-link {
+        float: none;
+        display: block;
+    }
+    .fuelux {
+        position: static;
+        transform: none;
+        margin-top: 30px !important;
+    }
+
+    .center-screen {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .enter-info p {
+        font-size: 18px !important;
+    }
+    .sign-up p {
+        padding: 0 0 25px !important;
+    }
+    .email-field,
+    .username-field,
+    .password-field {
+        padding: 0 10px 40px 10px !important;
+    }
+
+    .sign-password {
+        width: 100%;
+        margin: 0px 0 40px !important;
+    }
+    .sign-confirm {
+        width: 100%;
+        margin: 0px 0 40px !important;
+    }
+    .btn-s {
+        width: 100%;
+        display: block;
+        margin-bottom: 12px;
+    }
+
+    .fuelux .logo {
+        padding: 30px;
+    }
+
+    .worry-text {
+        padding: 0px 15px 10px;
+    }
+
+    .reset-password-btn {
+        padding: 0px 20px !important;
+    }
+
+    .dont-remember a {
+        display: block;
+    }
+    .padnew {
+        padding: 20px;
+    }
+
+    .login-btn {
+        padding-bottom: 43px;
+        margin: 0 44px 30px 44px;
+    }
+
+    .register-btn {
+        margin-bottom: 20px !important;
+    }
+
+    .remember-checkbox {
+        margin-left: 16px !important;
+    }
+
+    .forgot-password-link {
+        float: none;
+        display: block;
+    }
+
+    .custom-control-label a {
+        display: block;
+    }
+    #signupmodal input[type="checkbox"] {
+        float: left;
+        margin-right: 2px;
+    }
+}
+.reset-password-btn.mainten-button button {
+    width: auto !important;
+    margin: 0 auto;
+    padding: 0 8rem;
+    border-radius: 4px !important;
+}

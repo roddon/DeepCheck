@@ -1,0 +1,728 @@
+.be-top-header .be-navbar-header .navbar-brand {
+  width: 220px !important;
+}
+
+.be-left-sidebar .sidebar-elements > li a img {
+  margin-right: 20px;
+  width: 20px;
+}
+
+.custom-control-success {
+  color: #34a853;
+  margin-top: 5px;
+}
+.custom-control-failed {
+  color: #ea4335;
+  margin-top: 5px;
+}
+
+.custom-control-pending {
+  color: #ffbb2f;
+  margin-top: 5px;
+}
+.slim {
+  padding: 0 5px !important;
+  height: 2rem !important;
+}
+.pl30 {
+  padding-left: 30px !important;
+}
+
+.fw-normal {
+  font-weight: normal !important;
+}
+
+.nav-tabs-danger > li.nav-item a.nav-link.active {
+  border-bottom: 3px solid #ffbb2f !important;
+}
+
+.pricing-table {
+  border: 1px solid #ddd6 !important;
+  background: #ffffff;
+  text-align: center;
+  margin: 0 0 20px;
+}
+.pricing-table:hover {
+  background: #004b88 0% 0% no-repeat padding-box;
+  border: 1px solid #010101;
+  opacity: 1;
+  color: #fff;
+}
+
+.pricing-table-price {
+  text-align: center;
+}
+
+.pricing-table-price .currency {
+  font-size: 20px !important;
+  color: #ffbb2f;
+  vertical-align: inherit !important;
+}
+.pricing-table-price .value {
+  font-size: 20px !important;
+}
+
+.m-auto {
+  margin: auto !important;
+}
+.btn-s {
+    background: #004b88 0% 0% no-repeat padding-box !important;
+    border-radius: 3px;
+    color: #fff !important;
+    padding: 3px 35px;
+    font-size: 22px;
+    display: block;
+}
+
+.text-warning {
+  float: left;
+  margin: 0px 10px 0 0;
+  color: #e9675e !important;
+}
+
+.triangle-icon {
+  display: inline-block;
+  height: 17px !important;
+  width: 17px !important;
+  line-height: normal;
+  font-size: 22px !important;
+  opacity: 1;
+}
+
+.modal-content {
+  max-width: 750px !important;
+}
+
+.card-divider {
+  margin: 5px 0 !important;
+  border-top: 1px solid #f2f2f2;
+}
+
+.icon-container {
+  background-color: transparent !important;
+}
+
+.form-group.row {
+  margin-bottom: 0;
+  padding: 5px 0 !important;
+}
+.col-form-label {
+  padding-top: calc(0.7692rem + -15px) !important;
+}
+
+.be-user-nav {
+  margin-top: 15px;
+}
+
+.be-user-nav > li.dropdown > a img {
+  max-width: 32px;
+  max-height: 32px;
+  border-radius: 50%;
+  float: left;
+}
+
+.be-user-nav > li.dropdown > a .user-name {
+  margin-left: 10px !important;
+  display: block !important;
+  font-size: 1.077rem;
+  line-height: 29px !important;
+  vertical-align: middle;
+  float: left;
+}
+
+.ml-15 {
+  margin-left: 15px;
+}
+
+.mt-3 {
+  margin-top: 3px !important;
+}
+.mt-5 {
+  margin-top: 5px !important;
+}
+
+.pl0 {
+  padding-left: 0px !important;
+}
+.dataTables_length {
+  display: none;
+}
+
+.triangle-text {
+  text-align: left;
+  float: left;
+  margin-top: 2px;
+}
+
+.table tbody tr td.user-info span {
+  padding-left: 40px;
+  margin-top: 6px;
+}
+
+.nav-tabs > li.nav-item a.nav-link {
+  padding: 11px 60px 11px 25px !important;
+}
+
+.tab-content {
+  padding-left: 45px;
+}
+.pricing-tables {
+  padding: 0;
+}
+.pricing-table {
+  padding: 35px 10px 10px 0px !important;
+  margin: 0px !important;
+}
+
+.full-width .modal-content {
+  max-width: none !important;
+}
+
+.full-width .modal-content .pricing-table {
+  padding: 55px 10px 40px 0px !important;
+  margin: 0px !important;
+}
+
+/*CODER SA*/
+div#sync h4 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+ul.icon-na {
+  list-style: none;
+}
+
+ul.icon-na li {
+  display: inline-block;
+  margin: 15px;
+  text-align: center;
+}
+
+ul.icon-na li img {
+  display: block;
+  margin: 5px auto;
+  width: 71px;
+}
+
+.text-sa {
+  font-weight: 600;
+  font-size: 20px;
+}
+.pricing-table-title {
+  font-weight: 500;
+}
+/*CODER SA END*/
+.be-datatable-header {
+  border-bottom: none !important;
+}
+
+table.dataTable {
+  margin: auto !important;
+  border-collapse: collapse !important;
+  width: 95% !important;
+  border: 1px solid #c8b2b2a3 !important;
+}
+.dt-card-header:first-child {
+  border-radius: 2px 2px 0 0;
+  position: absolute;
+  margin: auto;
+  text-align: center;
+  width: 90%;
+}
+
+table.dataTable {
+  border: 1px solid #d7d0d0a3;
+}
+
+.be-datatable-footer {
+  background-color: #fff !important;
+  border-top: none !important;
+}
+
+.card-table thead tr th {
+  background: #f5f5f5;
+}
+.table-striped tbody tr:nth-of-type(2n + 1) {
+  background-color: #fff !important;
+}
+
+.page-item.active .page-link {
+  background-color: #ffbb2f !important;
+  border-color: #ffbb2f !important;
+}
+
+.invite-customer {
+  position: absolute;
+  margin-top: -50px;
+  left: 25px;
+}
+.invite-customer button {
+  float: left;
+}
+.invite-customer p {
+  float: left;
+  margin-top: 0px;
+  line-height: 14px;
+}
+.table-hover tbody tr:hover {
+  background-color: #fff !important;
+}
+
+.table td {
+  padding: 8px 5px !important;
+  border-top: none;
+}
+.card-table tr th:first-child,
+.card-table tr td:first-child {
+  padding-left: 35px !important;
+}
+
+.table thead th {
+  vertical-align: bottom !important;
+  border-bottom: 2px solid #fff !important;
+  border-bottom-width: 1px !important;
+}
+
+.form-control-sm {
+  height: 30px !important;
+}
+
+.card-holder-details {
+  width: 80%;
+  margin: auto;
+  border: 1px solid #e2f0fd;
+  padding: 30px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+div.dataTables_wrapper div.dataTables_paginate {
+  margin-right: 10px;
+}
+
+.be-datatable-header {
+  padding: 15px 10px 0px !important;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  text-align: right;
+  margin-top: 9px;
+}
+
+.fz-11 {
+  font-size: 11px !important;
+  float: left;
+  padding-right: 0px;
+}
+.fz-11 label {
+  font-size: 11px !important;
+  float: left;
+  margin-top: -4px;
+}
+
+/* onboarding css */
+.center-box {
+  margin: 0 auto !important;
+}
+
+.center-screen {
+    width: 524px;
+    height: auto;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-top: 2px solid #ffbb2f;
+    opacity: 1;
+}
+.fuelux {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo {
+  /*padding: 58px 95px 34px 96px;*/
+  padding: 58px 95px 22px 96px;
+}
+.be-wrapper{
+    padding-top: 0;
+}
+.logo img {
+  width: 333px;
+  height: 60px;
+}
+
+/* forgot password css */
+.forgot-password {
+ /* padding: 0 150px 24px 149px ; */
+  padding: 0 0 36px ; 
+}
+
+.forgot-password p {
+    font-size: 22px;
+    font-family: 'Arial';
+    color: #3E4042;
+    margin: 0;
+}
+
+.worry-text {
+  padding: 0 71px 24px 58px;
+}
+
+.worry-text p {
+  font-size: 18px !important;
+  font-family: 'Arial';
+  color: #3E4042;margin: 0;
+}
+
+.worry-text p.password-text {
+  padding-left: 5px !important;
+  text-align:left !important;
+  margin-bottom: 0 !important;
+}
+
+.email-field, .username-field, .password-field {
+  padding: 0 45px 40px 44px !important;display: block;
+}
+
+.email-field input, .username-field input, .password-field input {
+  border: 1px solid #707070;
+  border-radius: 4px;
+  height: 55px !important;
+}
+
+.reset-password-btn {
+  padding: 0 44px 30px 44px !important;
+    margin-top: -5px;
+}
+
+.reset-password-btn button, .sign-up-btn button {
+  height: 53px !important;
+}
+.dont-remember {
+    padding: 0 61px 32px 85px !important;
+    font-size: 18px;
+    margin: 0;
+}
+/* forgot password css end */
+
+/* login css */
+.enter-info {
+  padding: 0 68px 36px 68px !important;
+}
+
+.enter-info p {
+    font-size: 25px !important;
+    font-family: 'Arial';
+    color: #3E4042;
+    margin: 0;
+}
+
+.remember-me-checkbox {
+  width: 23px;
+  height: 23px;
+}
+
+.remember-me {
+  color: #9D9D9D;
+ font-size: 18px;
+  font-family: 'Arial';
+    line-height: normal;
+}
+
+.register-btn, .sign-in-btn, .facebook, .google-plus {
+    width: 202px;
+    height: 53px;
+    display: inline-block;
+}
+
+.remember-checkbox {
+  margin-left: 46px !important;
+  margin-bottom: 50px !important;
+  text-align: left !important;
+}
+.dont-remember a {
+    font-weight: bold;
+}
+.login-btn {
+  padding-bottom: 43px;
+  margin: 0 44px 0 44px;
+}
+
+.register-btn {
+  margin: 0 20px 0 0 !important;
+  background: #fff !important;
+  color: #000 !important;
+  border: 1px solid #bdc0c7;
+  font-weight: normal;
+  font-size: 22px;
+}
+/* login css end */
+
+/* sign-up css */
+.sign-up-btn {
+  padding: 0 44px 0 44px !important;
+  margin-top: -5px;
+}
+
+.sign-up p {
+    padding: 0 220px 18px 226px !important;
+    font-size: 18px !important;
+    font-family: 'Arial';
+}
+
+.sign-up-btn .btn-s {
+    padding: 10px 14px !important;
+    font-weight: normal;
+    font-size: 22px;
+    margin-bottom: 0 !important;
+    display: block;
+}
+.form-control-sm {
+    font-size: 22px;
+}
+.facebook, .google-plus {
+    font-size: 18px;
+}
+
+.google-plus {
+  float: right;
+}
+
+.facebook img, .google-plus img {
+  width: 20px;
+}
+
+.google-plus {
+  background: #db4a39 !important;
+}
+/* sign-up css end */
+
+.sign-in-btn {
+  font-size: 22px;
+  font-weight: normal;
+  float: right;
+}
+
+.forgot-password-link {
+    float: right;
+    text-decoration: underline;
+    margin-right: 44px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sign-up, .sign-up-or {
+  font-size: 22px;
+}
+
+.sign-up-or {
+    margin-top: 21px;
+    margin-bottom: 25px;
+}
+.sign-up-or p {
+    margin: 0;
+}
+.sign-password {
+    margin-right: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    display: inline-block;
+}
+
+.sign-confirm {
+    margin-left: 0;
+    border-radius: 4px !important;
+    width: 202px;
+    float: right;
+}
+
+.terms-checkbox {
+  margin: 0 43px 53px 46px;
+}
+
+.terms-checkbox label {
+  font-size: 15px;
+    line-height: normal;
+}
+
+.copy-right {
+  font-size: 20px;
+  padding: 10px 0;
+    margin: 0;
+}
+
+@media(max-width: 1600px) { 
+.logo {
+    padding: 30px 95px 15px 96px;
+}
+.logo img {
+    width: 250px;
+    height: auto;
+}
+.enter-info {
+    padding: 0 68px 25px 68px !important;
+}
+.email-field, .username-field, .password-field {
+    padding: 0 45px 25px 44px !important;
+}
+.login-btn {
+    padding-bottom: 25px;
+}
+.terms-checkbox {
+    margin: 0 43px 35px 46px;
+}
+.enter-info p {
+    font-size: 21px !important;
+}
+.sign-up-or {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.sign-up, .sign-up-or, .form-control-sm {
+    font-size: 18px;
+}
+.email-field input, .username-field input, .password-field input {
+    height: 50px !important;
+}
+
+}
+@media(max-width: 1400px) { 
+.logo {
+    padding: 30px 95px 15px 96px;
+}
+.logo img {
+    width: 250px;
+    height: auto;
+}
+.enter-info {
+    padding: 0 68px 15px 68px !important;
+}
+.email-field, .username-field, .password-field {
+    padding: 0 45px 15px 44px !important;
+}
+.login-btn {
+    padding-bottom: 25px;
+}
+.terms-checkbox {
+    margin: 0 43px 25px 46px;
+}
+.enter-info p {
+    font-size: 18px !important;
+}
+.sign-up-or {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sign-up, .sign-up-or, .form-control-sm {
+    font-size: 16px;
+}
+.email-field input, .username-field input, .password-field input {
+    height: 40px !important;
+}
+.sign-up-btn {
+    margin-top: 0;
+}
+.sign-up p {
+    padding: 0 220px 5px 226px !important;
+}
+}
+@media(max-width: 600px) { 
+.center-screen {
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    .be-wrapper {
+    overflow-x: inherit; 
+}
+.logo {
+    padding: 58px 0 34px 0;
+}
+.logo img {
+    width: 250px;
+    height: auto;
+}
+.enter-info {
+    padding: 0 0 30px !important;
+}
+.sign-up p {
+    padding: 0 0 10px !important;
+}
+.email-field, .username-field, .password-field {
+    padding: 0 0 20px !important;
+}
+.sign-up-btn {
+    padding: 0!important;
+}
+.google-plus {
+    float: none;
+}
+.register-btn, .sign-in-btn, .facebook, .google-plus {
+    width: 100%;
+}
+.facebook, .google-plus {
+    margin-bottom: 15px;
+}
+.login-btn {
+    margin: 0;
+}
+.worry-text {
+    padding: 0 0 24px;
+}
+.reset-password-btn {
+    padding: 0 0 30px !important;
+}
+.dont-remember {
+    padding: 0 0 32px !important;
+}
+.forgot-password-link {
+    float: none;
+    margin-right: 0;
+    display: block;
+    margin-top: 15px;
+}
+.remember-checkbox {
+    margin-left: 0 !important;
+}
+.register-btn {
+    margin: 0!important;
+}
+.sign-in-btn {
+    float: none;
+    margin-top: 15px;
+}
+.sign-up-btn, .reset-password-btn {
+  margin-top: 0px;
+}
+.sign-confirm {
+    width: 100%;
+    float: none;
+    margin-top: 20px;
+}
+.sign-password {
+    width: 100%;
+}
+.fuelux {
+    position: relative;
+    top: 70px;
+    transform: none;
+    left: auto;
+    padding: 30px;
+}
+.input-group > .form-control + .form-control, .input-group > .form-control + .custom-select, .input-group > .form-control + .custom-file, .input-group > .form-control-plaintext + .form-control, .input-group > .form-control-plaintext + .custom-select, .input-group > .form-control-plaintext + .custom-file, .input-group > .custom-select + .form-control, .input-group > .custom-select + .custom-select, .input-group > .custom-select + .custom-file, .input-group > .custom-file + .form-control, .input-group > .custom-file + .custom-select, .input-group > .custom-file + .custom-file {
+    margin-left: 0;
+}
+.enter-info p {
+    font-size: 18px !important;
+}
+.email-field input, .username-field input, .password-field input {
+    height: 45px !important;
+}
+.form-control-sm, .forgot-password p, .sign-up-btn .btn-s {
+    font-size: 18px;
+}
+
+.terms-checkbox {
+    margin: 0 0 53px;
+}
+}
